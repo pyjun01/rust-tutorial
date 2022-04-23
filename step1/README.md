@@ -15,4 +15,4 @@ rust의 빌드 시스템 및 패키지 매니저이다. 이거만 보면 Javscri
 - ```cargo run``` 명령어로 코드를 컴파일 후 바로 실행할 수 있다.
 - ```cargo check```  명령어는 러스트 코드가 컴파일이 가능한지 확인해준다.
 - cargo의 추가적인 장점은 운영체제에 제한없이 커맨드가 동일하다는 점
-- ```cargo build --release``` 명령어로 target/release 폴더에 배포용 최적화된 실행 파일을 생성한다.
+- ```cargo build --release``` 명령어로 target/release 폴더에 배포용 최적화된 실행 파일을 생성한다. (당연히 일반 빌드보다 시간이 좀 더 걸린다)
